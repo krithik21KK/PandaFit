@@ -103,10 +103,12 @@ def signin():
 
 
 
-@app.route('/form', methods = ['GET', 'POST'])
+# @app.route('/form', methods = ['GET', 'POST'])
+# def form():
+#     return render_template("form.html")
+@app.route('/form')
 def form():
     return render_template("form.html")
-
 
 
 @app.route('/beginnerworkout')
