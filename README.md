@@ -1,6 +1,6 @@
 # PandaFit🐼
 # A WebApp for Online Strength Training Center
-🐼PandaFit developed as a part of Internship Project @Varcons Technologies Pvt Ltd
+🐼PandaFit developed as a part of Internship Project @Varcons Technologies Pvt Ltd                                                                      
 https://tenacious-pig-cave.wayscript.cloud/ 👈Link for My Site
 
 ⚡Completely Built Using HTML,CSS,JS,FLASK & uses Firebase for storing the data
