@@ -1,6 +1,7 @@
 # PandaFit🐼
 # A WebApp for Online Strength Training Center
 🐼PandaFit developed as a part of Internship Project @Varcons Technologies Pvt Ltd
+https://tenacious-pig-cave.wayscript.cloud/ 👈Link for My Site
 
 ⚡Completely Built Using HTML,CSS,JS,FLASK & uses Firebase for storing the data
 
@@ -12,7 +13,7 @@ This Site has used several GIFs to instruct the user on how to perform the exerc
 
 
 Overall, Its a One Stop Solution for all your Fitness Needs.
-https://tenacious-pig-cave.wayscript.cloud/ 👈Link for My Site
+
 # FEATURES
 ♦️ A Fully Responsive & Interactive Site with Firebase back-end for storage of user credentials                                                                             
 ♦️ A Dedicated BMI Calculator                                                                            
